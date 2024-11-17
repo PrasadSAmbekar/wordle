@@ -1,5 +1,5 @@
 # Wordle 🚀 😸
-## A clone of engaging and challenging game Wordle by The New York Times.
+## A clone of engaging and challenging game Wordle 
 
 
 <br>
