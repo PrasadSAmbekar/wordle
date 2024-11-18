@@ -1,6 +1,7 @@
 # Wordle 🚀 😸
 ## A clone of engaging and challenging game Wordle 
 
+### To play a game come [`here`](https://sachin4219.github.io/Wordle/)
 
 <br>
 
